@@ -7,7 +7,7 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>pathfinder</name>
+  <name>Pathfinder</name>
 
   <description>
       An simple example of pathfinding game based around obstacles 
